@@ -16,26 +16,26 @@ DESCRPITION:
 
 This platform will function like a modern version of Udemy or Coursera — allowing users to watch video lessons, take quizzes, and track their learning progress — with a beautiful UI and smooth performance.
 
-✨ Key Features:
+FEATURES:
 
-🎥 Media Streaming: High-quality, seamless video playback using Mux
+1.Media Streaming: High-quality, seamless video playback using Mux
 
-🔐 User Authentication: Secure sign-up and login via Clerk
+2.User Authentication: Secure sign-up and login via Clerk
 
-🧠 Course Management: Dynamic course and lesson creation using Sanity CMS
+3.Course Management: Dynamic course and lesson creation using Sanity CMS
 
-✅ Progress Tracking: Students can mark lessons as complete and track their progress
+4.Progress Tracking: Students can mark lessons as complete and track their progress
 
-📝 Quizzes (optional): Basic assessment features to test understanding
+5.Quizzes (optional): Basic assessment features to test understanding
 
-📱 Responsive UI: Student-friendly design, optimized for desktop and mobile
+6.Responsive UI: Student-friendly design, optimized for desktop and mobile
 
-🛠️ Tech Stack:
+TECH STACK:
 
-Frontend: Next.js, Tailwind CSS, TypeScript
+1.Frontend: Next.js, Tailwind CSS, TypeScript
 
-Backend/Infra: Sanity CMS (for content), Mux (for video), Clerk (for auth)
+2.Backend/Infra: Sanity CMS (for content), Mux (for video), Clerk (for auth)
 
-Hosting: Vercel
+3.Hosting: Vercel
 
-Extras: React Hook Form, Zustand (state mgmt), Shadcn UI
+4.Extras: React Hook Form, Zustand (state mgmt), Shadcn UI
